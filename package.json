@@ -1,0 +1,24 @@
+{
+  "name": "debounce-with-map",
+  "description": "A tiny function that runs a delayed execution of unique calls by managing a Map data structure with a custom debounce implementation",
+  "version": "0.9",
+  "author": "Aleksej Krichevsky <krich.al.vl@gmail.com> (https://github.com/kricha)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kricha/debounce-with-map"
+  },
+  "bugs": {
+    "url": "https://github.com/kricha/debounce-with-map/issues"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT",
+  "keywords": [
+    "debounce",
+    "throttle",
+    "invoke",
+    "map"
+  ]
+}
