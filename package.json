@@ -1,7 +1,7 @@
 {
   "name": "debounce-with-map",
   "description": "A tiny function that runs a delayed execution of unique calls by managing a Map data structure with a custom debounce implementation",
-  "version": "0.9",
+  "version": "0.9.1",
   "author": "Aleksej Krichevsky <krich.al.vl@gmail.com> (https://github.com/kricha)",
   "repository": {
     "type": "git",
